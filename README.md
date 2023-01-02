@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PowerCell12</h1>
+<h1 align="center">Hi 👋, I'm Ivan Gerdzhikov</h1>
 <h3 align="center">A passionate student from Bulgaria</h3>
 
 - 🌱 I’m currently learning **Python, AWS,Docker**
