@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **gumbal4e@gmail.com**
 
-- ⚡ Fun fact **McDonald’s cooked their fries in 93% beef fat (tallow) until 1990, when they switched to vegetable oil.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
